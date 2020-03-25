@@ -39,3 +39,35 @@ form {
   width: 100%;
 }
 /* ========================WRITE YOUR CSS FROM HERE======================== */
+
+
+h2{
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+p{
+  margin: 16px 0 12px 8px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.custom-control{
+    text-align: left;
+    margin: 10px 0;
+}
+
+#submit-btn {
+  width: 100%;
+}
+
+#email, #phone {
+  width: 48.3%;
+
+}
+
+#phone{
+  margin-left: 3.4%;
+}
+
+
